@@ -1,0 +1,12 @@
+[
+    {
+        "relation": ["delegate_permission/common.handle_all_urls"],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "com.tigeroakes.insightfulenergy",
+            "sha256_cert_fingerprints": [
+                "26:52:AF:89:F1:1D:2E:18:1B:5C:4D:D2:DB:AD:3B:F8:8C:AA:44:46:86:BD:B9:A5:61:99:5B:2E:1D:7A:82:C8"
+            ]
+        }
+    }
+]
